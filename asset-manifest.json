@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/arknight-alliance/build/static/css/main.88c175b8.css",
-    "main.js": "/arknight-alliance/build/static/js/main.7a35e26e.js",
-    "static/js/453.3faf1ef7.chunk.js": "/arknight-alliance/build/static/js/453.3faf1ef7.chunk.js",
-    "index.html": "/arknight-alliance/build/index.html",
-    "main.88c175b8.css.map": "/arknight-alliance/build/static/css/main.88c175b8.css.map",
-    "main.7a35e26e.js.map": "/arknight-alliance/build/static/js/main.7a35e26e.js.map",
-    "453.3faf1ef7.chunk.js.map": "/arknight-alliance/build/static/js/453.3faf1ef7.chunk.js.map"
+    "main.css": "./static/css/main.88c175b8.css",
+    "main.js": "./static/js/main.40a93327.js",
+    "static/js/453.3faf1ef7.chunk.js": "./static/js/453.3faf1ef7.chunk.js",
+    "index.html": "./index.html",
+    "main.88c175b8.css.map": "./static/css/main.88c175b8.css.map",
+    "main.40a93327.js.map": "./static/js/main.40a93327.js.map",
+    "453.3faf1ef7.chunk.js.map": "./static/js/453.3faf1ef7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.88c175b8.css",
-    "static/js/main.7a35e26e.js"
+    "static/js/main.40a93327.js"
   ]
 }
